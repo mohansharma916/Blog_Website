@@ -1,7 +1,7 @@
 # 📝MyBlog - blog application
 > MyBlog is a blog application where users
 > are able to create their own posts, react to other's posts and many more.
-> Live demo
+
 
 
 
