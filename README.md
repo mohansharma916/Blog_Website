@@ -52,6 +52,13 @@ Run following commands:
 npm install
 npm run start:dev
 ```
+
+OR
+
+```
+yarn
+yarn start
+```
 To run React application: open 'client' folder
 
 Run following commands:
@@ -67,11 +74,3 @@ npm start
 ## Project Status
 Project is: _completed_
 
-
-## Contact
-Contact with me via e-mail: turokvadim2510@gmail.com
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
